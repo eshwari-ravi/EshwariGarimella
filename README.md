@@ -9,4 +9,4 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=#1E259CFF&duration=4000&lines=Hi+👋;+I'm+Eshwari+Garimella!;" />
 </h1>
 
-### A first year M.S.Biomedical data science student with an immense interest in developing AI/ML predictive models. With an experience of working at the intersection of Bioinformatics, Molecular Biology, Genomics.  
+### Currently an M.S.Biomedical data science student, with experience as a Bioinformatics Analyst. Working at the intersection of Network Biology, ML, and AI, build predictive models to gain insights that drive biomedical innovation. 
