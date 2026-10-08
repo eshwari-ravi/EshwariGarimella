@@ -2,7 +2,7 @@
 
 <img src="https://github.com/eshwari-ravi/EshwariGarimella/blob/main/github_image.webp" alt="Banner of a Computational Biologist">
 
-### Currently an M.S.Biomedical data science student, with experience as a Bioinformatics Analyst. Working at the intersection of Network Biology, ML, and AI to build predictive models that drive biomedical innovation. 
+### Currently an M.S. Biomedical Data Science student, with experience as a Bioinformatics Analyst. Working at the intersection of Network Biology, ML, and AI to build predictive models that drive biomedical innovation. 
 
 <br>
 
