@@ -1,4 +1,4 @@
-# EshwariGarimella
+# Eshwari Garimella
 
 <img src="https://github.com/eshwari-ravi/EshwariGarimella/blob/main/github_image.webp" alt="Banner of a Computational Biologist">
 
